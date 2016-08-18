@@ -47,6 +47,7 @@
 		330209F41D602059009B0237 /* pruebaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pruebaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		330209F81D602059009B0237 /* pruebaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pruebaUITests.swift; sourceTree = "<group>"; };
 		330209FA1D602059009B0237 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3362BC5F1D65FDEC006F5136 /* MINIRETO.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MINIRETO.playground; path = ../../Desktop/prueba/MINIRETO.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		330209CC1D602056009B0237 = {
 			isa = PBXGroup;
 			children = (
+				3362BC5F1D65FDEC006F5136 /* MINIRETO.playground */,
 				330209D71D602058009B0237 /* prueba */,
 				330209EC1D602059009B0237 /* pruebaTests */,
 				330209F71D602059009B0237 /* pruebaUITests */,
@@ -482,6 +484,7 @@
 				330209FF1D602059009B0237 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		33020A001D602059009B0237 /* Build configuration list for PBXNativeTarget "pruebaTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +493,7 @@
 				33020A021D602059009B0237 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		33020A031D602059009B0237 /* Build configuration list for PBXNativeTarget "pruebaUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +502,7 @@
 				33020A051D602059009B0237 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
