@@ -47,7 +47,6 @@
 		330209F41D602059009B0237 /* pruebaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pruebaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		330209F81D602059009B0237 /* pruebaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pruebaUITests.swift; sourceTree = "<group>"; };
 		330209FA1D602059009B0237 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3362BC5F1D65FDEC006F5136 /* MINIRETO.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MINIRETO.playground; path = ../../../Desktop/prueba/MINIRETO.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +97,6 @@
 		330209D71D602058009B0237 /* prueba */ = {
 			isa = PBXGroup;
 			children = (
-				3362BC5F1D65FDEC006F5136 /* MINIRETO.playground */,
 				330209D81D602058009B0237 /* AppDelegate.swift */,
 				330209DA1D602058009B0237 /* ViewController.swift */,
 				330209DC1D602058009B0237 /* Main.storyboard */,
